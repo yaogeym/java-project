@@ -1,0 +1,49 @@
+## 121SSM记账管理系统
+
+### 一、项目介绍
+
+项目地址：http://javatip.cn/store/130.html
+
+记账管理系统基于Spring+SpringMVC+Mybatis开发，系统主要功能如下：
+
+- 收入项管理
+- 支出项管理
+- 收入方式管理
+- 支出方式管理
+
+- 添加收入
+- 添加支出
+- 余额管理
+- 历史收支
+- 图表统计
+
+### 二、技术框架
+
+- 后端：Spring，Springmvc，Mybatis
+- 前端：bootstrap，echarts，jquery
+
+### 三、安装教程
+
+1. 用idea打开项目
+2. 在idea中配置jdk环境
+3. 配置maven环境并下载依赖
+4. 配置Tomcat8.0
+5. 新建数据库，导入数据库文件
+6. mysqldb.properties文件中将数据库账号密码改成自己本地的
+7. 启动运行，访问 http://localhost:8080  , 管理员账号密码 system/123456
+
+更多项目请访问 http://javatip.cn
+
+### 四、项目截图
+
+![image-20230720101826648](http://image.javatip.cn/bysj/20230720101826.png)
+
+![image-20230720101631060](http://image.javatip.cn/bysj/20230720101638.png)
+
+![image-20230720101716326](http://image.javatip.cn/bysj/20230720101716.png)
+
+![image-20230720101732513](http://image.javatip.cn/bysj/20230720101732.png)
+
+![image-20230720101750540](http://image.javatip.cn/bysj/20230720101750.png)
+
+![image-20230720101802942](http://image.javatip.cn/bysj/20230720101803.png)
