@@ -47,7 +47,7 @@
 - [SSM餐厅收银管理系统](./SSM餐厅收银管理系统.md)
 - [Javaweb心理咨询系统](./Javaweb心理咨询系统.md)
 - [SSM兼职论坛](./SSM兼职论坛.md)
-- [pringBoot薪资管理系统](./pringBoot薪资管理系统.md)
+- [SpringBoot薪资管理系统](./pringBoot薪资管理系统.md)
 - [SpringBoot疫情信息管理系统](./SpringBoot疫情信息管理系统.md)
 - [SpringBoot校园二手平台](./SpringBoot校园二手平台.md)
 - [SpringBoot人事管理系统（含论文）](./SpringBoot人事管理系统（含论文）.md)
@@ -105,4 +105,5 @@
 - [SpringBoot泳场管理系统](./SpringBoot泳场管理系统.md)
 - [SSM游戏交易网站](./SSM游戏交易网站.md)
 - [SpringBoot作业查重管理系统](./SpringBoot作业查重管理系统.md)
+- [SpringBoot+vue酒店管理系统](./SpringBoot+vue酒店管理系统.md)
   
