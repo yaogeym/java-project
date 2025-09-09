@@ -2,7 +2,7 @@
 
 使用ctrl+F进行快捷搜索，更多源码请前往 http://javatip.cn
 
-- [SpringBoot图书管理系统](./SpringBoot图书管理系统.md)
+- [SpringBoot图书管理系统](毕设源码/SpringBoot图书管理系统.md)
 - [SpringBoot仓库管理系统](./SpringBoot仓库管理系统.md)
 - [SSM汽车租赁系统](./SSM汽车租赁系统.md)
 - [SSM酒店管理系统](./SSM酒店管理系统.md)
