@@ -1,4 +1,4 @@
-# Java 毕业设计说明文档与项目报告合集
+# Java 毕业设计项目源码论文报告合集
 
 本仓库收录了多个 **Java 毕业设计项目说明文档与项目报告**，涵盖 **SSM、SpringBoot、SpringBoot+Vue、JavaWeb、小程序** 等多种技术栈。
 
