@@ -1,10 +1,14 @@
-# Java 毕业设计说明文档合集
+# Java 毕业设计说明文档与项目报告合集
 
-本仓库整理了多个 Java 毕业设计项目的说明文档与项目报告，涵盖酒店管理系统、物流系统、超市管理、小程序等，旨在为计算机专业学生提供参考资源。
+本仓库收录了多个 **Java 毕业设计项目说明文档与项目报告**，涵盖 **SSM、SpringBoot、SpringBoot+Vue、JavaWeb、小程序** 等多种技术栈。
 
-> 🚀 关键词：Java 毕业设计 | 毕业论文 | 项目说明文档 | 项目报告 | 毕设参考
+## 📌 项目关键词汇总（方便搜索）
 
-使用ctrl+F进行快捷搜索，更多源码请前往 http://javatip.cn
+宿舍管理系统、酒店管理系统、图书管理系统、超市管理系统、教务管理系统、就业管理系统、理财管理系统、房屋租赁网站、仓库管理系统、汽车租赁系统、汽车销售平台、汽车维修平台、药品进销存管理系统、药店信息管理系统、薪资管理系统、人事管理系统、OA 办公系统、CRM 客户关系管理系统、学生成绩管理系统、在线考试系统、校园二手交易平台、校园外卖系统、校园兼职平台、校园选课系统、学生会管理系统、请假管理系统、运动会信息管理系统、图书馆预约系统、网上购药系统、网上书城、网上家具商城、网上书店、网上拍卖系统、网上招聘系统、网上商城、旅游网站、旅游景区预约服务系统、电影订票系统、电影院会员管理系统、动漫论坛、在线论坛、美食分享网站、乐谱分享平台、美术馆售票系统、电子书店、电子商城、电子政务系统、社团报名系统、社区管理系统、社区诊所管理系统、社区疫苗接种系统、物业管理系统、养老院管理系统、养老服务管理系统、健身房管理系统、健身饮食管理系统、健康管理系统、大学生心理健康网站、导师管理系统、奖学金管理系统、实验室设备管理系统、物流管理系统、物流配送系统、垃圾分类管理系统、垃圾管理系统、停车场管理系统、车牌识别系统、身份证识别系统、人脸识别图书馆预约系统、风景推荐系统、热点新闻监控系统、合同管理系统、采购管理系统、库存管理系统、生产管理系统、业余足球队评价系统、二手平台、食品外卖系统、手工艺品商城、房产中介管理系统、社区拼团小程序、共享单车小程序、会议室预约小程序、仓库存储小程序……
+
+（更多题目见下方详细分类）
+
+使用ctrl+F进行快捷搜索题目，更多源码请前往 http://javatip.cn
 
 ---
 
@@ -199,7 +203,8 @@
 ---
 
 ## 🌍 English Introduction
-This repository gathers Java graduation-design documentation and project reports—covering domains like hotel management, logistics, e-commerce, mini-programs, etc.—for CS students.
+
+This repository includes multiple **Java graduation design project description documents and project reports**, with themes such as **SSM, SpringBoot, SpringBoot+Vue, JavaWeb, mini programs** and other technology stacks.
 
 ---
 
